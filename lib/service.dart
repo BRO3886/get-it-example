@@ -1,3 +1,3 @@
 class APIService{
-  String get fetchData => 'some data';
+  String get fetchData => 'data from API';
 }
